@@ -22,7 +22,8 @@ console.log(removeDuplicates([5, 5, 5, 6, 7]));
 
 console.log("Ans to the Qu. No:4");
 function celsiusToFahrenheit(celsius) {
-    return (celsius * 9/5) + 32;
+    let Fahrenheit =(celsius * 9/5) + 32;
+    return Fahrenheit;
 }
 
 
